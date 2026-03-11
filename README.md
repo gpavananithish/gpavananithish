@@ -21,12 +21,14 @@ I'm an aspiring software developer who loves exploring new technologies and coll
 ## 📌 Featured Projects
 
 Here are some of my notable projects:
+-** ISA *** - The ISA website serves as an educational portal, providing users with information about telescopes, planets, satellites, and groundbreaking space discoveries. It features a modern, space-themed design with glassmorphism effects and a fully responsive layout.
+ - [ISA]((https://gpavananithish.github.io/ISA/))
 
 - **🌦️ Weather Forecasting System** - A web-based application that helps users track weather conditions based on their location.
-  - [Live Demo](https://gpavananithish.github.io/WFC/)
+  - [WFC](https://gpavananithish.github.io/WFC/)
 
 - **🏥 Liver Cirrhosis Prediction Using ML** - A Django-based predictive platform featuring a LightGBM ML model, medical report PDF analysis, and an integrated AI health assistant powered by Qwen 2.5.
-  - [Live Demo](https://liver-ai.onrender.com/)
+  - [LIVER_AI]((https://pavan0550w.pythonanywhere.com/))
 
 *More projects can be found in my repositories below.*
 
