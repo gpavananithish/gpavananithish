@@ -60,7 +60,7 @@ Here are some of my notable projects:
 - **GitHub**: [@gpavananithish](https://github.com/gpavananithish)
 - **LinkedIn**: [Gunda Pavana Nithish](https://www.linkedin.com/in/gunda-pavana-nithish-440778280/)
 - **Email**: pavana9542@gmail.com
-- **Portfolio**: Coming soon...
+- **Portfolio**: [GPN Portfolio](https://gpavananithish.vercel.app/)
 
 ## 💡 Open to Collaboration
 
