@@ -31,6 +31,9 @@ Here are some of my notable projects:
 
 - **🏥 Liver Cirrhosis Prediction Using ML** - A Django-based predictive platform featuring a LightGBM ML model, medical report PDF analysis, and an integrated AI health assistant powered by Qwen 2.5.
   - [LIVER_AI](https://pavan0550w.pythonanywhere.com/)
+ 
+- ** ⌨️ TestUrTyping ** - A modern, dynamic, and interactive typing test web application built with React 19 to help users track and improve their typing speed, accuracy, and efficiency.
+   - [TestUrTyping](https://testurtyping.vercel.app)
 
 *More projects can be found in my repositories below.*
 
