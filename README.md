@@ -23,7 +23,7 @@ I'm an aspiring software developer who loves exploring new technologies and coll
 Here are some of my notable projects:
 
 
--** ISA *** - A Web-based application, providing users with information about telescopes, planets, satellites, and groundbreaking space discoveries. It features a modern, space-themed design with glassmorphism effects and a fully responsive layout.
+- ISA  - A Web-based application, providing users with information about telescopes, planets, satellites, and groundbreaking space discoveries. It features a modern, space-themed design with glassmorphism effects and a fully responsive layout.
  - [ISA](https://gpavananithish.github.io/ISA/)
 
 - **🌦️ Weather Forecasting System** - A web-based application that helps users track weather conditions based on their location.
@@ -32,7 +32,7 @@ Here are some of my notable projects:
 - **🏥 Liver Cirrhosis Prediction Using ML** - A Django-based predictive platform featuring a LightGBM ML model, medical report PDF analysis, and an integrated AI health assistant powered by Qwen 2.5.
   - [LIVER_AI](https://pavan0550w.pythonanywhere.com/)
  
-- ** ⌨️ TestUrTyping ** - A modern, dynamic, and interactive typing test web application built with React 19 to help users track and improve their typing speed, accuracy, and efficiency.
+-  ⌨️ TestUrTyping  - A modern, dynamic, and interactive typing test web application built with React 19 to help users track and improve their typing speed, accuracy, and efficiency.
    - [TestUrTyping](https://testurtyping.vercel.app)
 
 *More projects can be found in my repositories below.*
